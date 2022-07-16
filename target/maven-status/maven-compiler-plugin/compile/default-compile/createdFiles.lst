@@ -1,0 +1,7 @@
+modelo\Modelo.class
+modelo\ModeloHC.class
+controlador\AppServlet.class
+modelo\Conexion.class
+modelo\ModeloFactory.class
+modelo\ModeloMySQL.class
+modelo\Pais.class
